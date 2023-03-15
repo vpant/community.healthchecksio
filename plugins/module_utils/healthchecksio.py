@@ -115,7 +115,6 @@ class HealthchecksioHelper:
                     ],
                 ),
                 required=True,
-                no_log=True,
             ),
         )
 
